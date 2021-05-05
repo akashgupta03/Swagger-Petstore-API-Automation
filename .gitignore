@@ -1,0 +1,33 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+
+.idea/
+*.iml
+.DS_Store
+target/
+build
+.gradle/
+dump.rdb
+generated-test-sources/
+out/
+classes/
+.m2/
+/.metadata/
+
+
+# Explicit files #
